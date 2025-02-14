@@ -28,7 +28,7 @@ const Footer = ({ title }) => {
         <i className='fas fa-users'/> <span className='px-1 busuanzi_value_site_uv'> </span> </span>
         <br/>
         <h1>{title}</h1>
-        <span className='text-xs '>Powered by <a href='https://github.com/tangly1024/NotionNext' className='underline dark:text-gray-300'>NotionNext {BLOG.VERSION}</a>.</span></span><br/>
+        <span className='text-xs '>本站由 <a href='https://yxvm.com/aff.php?aff=711' className='underline dark:text-gray-300'>YXVM</a>强力驱动</span></span><br/>
 
     </footer>
   )
